@@ -24,7 +24,7 @@ function keypressed(key){
             var crash=new Audio("./sounds/crash.mp3");
             crash.play();
             break;
-        case "w":
+        case "f":
             var kick_bass=new Audio("./sounds/kick-bass.mp3");
             kick_bass.play();
             break;

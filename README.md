@@ -37,9 +37,7 @@ drum-kit/
 ## 🌐 Live Demo
 
 You can try out the Drum Kit here:  
-🔗 [Live Demo on GitHub Pages](https://your-username.github.io/drum-kit)
-
-> ✨ *Replace `your-username` with your GitHub username.*
+🔗 [Live Demo on GitHub Pages](https://chaitanyaraj75.github.io/Drum-Kit)
 
 ## ⚙️ How to Add Custom Sounds
 
@@ -52,13 +50,6 @@ To replace the drum sounds with your own:
 Ensure your custom sounds are:
 - In `.mp3` or `.wav` format.
 - Optimized for quick loading.
-
-## 🚀 Deploy on GitHub Pages
-
-1. Push your project to a GitHub repository.
-2. Go to the repository’s **Settings > Pages**.
-3. Set the source branch to `main` (or `master`) and folder to `/root`.
-4. GitHub will publish it at `https://your-username.github.io/repo-name`.
 
 ---
 
